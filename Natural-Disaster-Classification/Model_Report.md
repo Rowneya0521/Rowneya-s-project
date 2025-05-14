@@ -54,7 +54,7 @@ Due to increasing extreme weather events, the need for fast and accurate disaste
 ResNet34 Grad-CAM highlights show accurate focus on disaster-specific features such as clouds, waves, and terrain structures.
 
 ## 🔗 Reference
-- Source Report: 📄 [報告下載（PDF）](./Natural-Disaster-Classification/Disaster_CNN_Classification_Report.pdf)
+- Source Report: 📄 [報告下載 Reportdownload（PDF）](./Natural-Disaster-Classification/Disaster_CNN_Classification_Report.pdf)
 - Article: [iT邦幫忙 AI 專案分享](https://ithelp.ithome.com.tw/m/articles/10356469)
 
 ## 🤖 Tools Used

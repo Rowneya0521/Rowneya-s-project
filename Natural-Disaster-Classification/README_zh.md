@@ -41,3 +41,4 @@ ResNet34 / VGG16 / EfficientNetB0 模型 + Grad-CAM 可視化 + Hugging Face 即
 - PyTorch  
 - OpenCV  
 - Matplotlib  
+[English version available here → README_en.md](./README_en.md)

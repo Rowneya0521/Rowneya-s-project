@@ -1,7 +1,7 @@
 # 🌪️ Natural Disaster Image Classification using CNNs
 A deep learning project addressing UN SDG 13: Climate Action, by applying convolutional neural networks to classify five types of natural disasters from images.
 
-📄 [報告下載（PDF）](./report.pdf)
+📄 [報告下載（PDF）](./Natural-Disaster-Classification/Disaster_CNN_Classification_Report.pdf)
 
 ## 🧭 Introduction
 This project applies Convolutional Neural Networks (CNNs) to automatically classify natural disaster images. It aims to assist in disaster response and improve decision-making efficiency by supporting early warning systems and digitizing disaster information.

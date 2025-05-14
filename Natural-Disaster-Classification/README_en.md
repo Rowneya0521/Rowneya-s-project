@@ -41,3 +41,4 @@ Grad-CAM was used to visualize model attention and enhance interpretability.
 - PyTorch  
 - OpenCV  
 - Matplotlib  
+[Chinese version available here → README_zh.md](./README_zh.md)

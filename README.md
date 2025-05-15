@@ -7,7 +7,7 @@ Hi! I'm an enthusiastic student passionate about AI, cybersecurity, and system d
 
 ## Project List
 
-### 1. [Natural Disaster Image Classification](#)
+### 1. [Natural Disaster Image Classification](#HAR-Activity-Recognition)
 - CNN-based image classifier using ResNet34/VGG16/EfficientNetB0
 - Transfer Learning + Grad-CAM + Huggingface deployment
 

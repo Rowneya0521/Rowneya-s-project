@@ -11,11 +11,11 @@ Hi! I'm an enthusiastic student passionate about AI, cybersecurity, and system d
 - CNN-based image classifier using ResNet34/VGG16/EfficientNetB0
 - Transfer Learning + Grad-CAM + Huggingface deployment
 
-### 2. [SIEM System with ELK Stack](#)
+### 2. [SIEM System with ELK Stack continuing update](#) 
 - Dockerized Elasticsearch + Kibana
 - Simulated attack logs and detection rules via SIEM interface
 
-### 3. [Blockchain-based Genomic Data Sharing](#)
+### 3. [Blockchain-based Genomic Data Sharing continuing update](#)
 - Hyperledger Fabric + Hybrid Signcryption + Kubernetes
 - Secure architecture for IoLT-based healthcare
 

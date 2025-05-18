@@ -1,8 +1,15 @@
 
 # Rowneya's Project Portfolio
+# 👋 Hi, I'm Rowneya
 
-Hi! I'm an enthusiastic student passionate about AI, cybersecurity, and system design. This page showcases my selected technical projects, covering deep learning, SIEM systems, blockchain, and IoT security.
+🎓 Fu Jen Catholic University | Major in Artificial Intelligence & Information Engineering  
+🔐 Interested in Cybersecurity, AI, Red Team, Reverse Engineering  
+🔐 Cybersecurity 🤖 AI / Machine Learning🔗 Blockchain 
+## 🛠 Skills
 
+- **Languages**: Python, C/C++, Java, MATLAB
+- **Tools**: Linux (Ubuntu, Shell), Astah UML, Hugging Face, Roboflow, Dify
+- **Languages**: English, German
 ---
 
 ## Project List

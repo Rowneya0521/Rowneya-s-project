@@ -14,7 +14,7 @@
 
 ## Project List
 
-### 1. [Natural Disaster Image Classification](#natural-disaster-classification)
+### 1. [Natural Disaster Image Classification](./Natural-Disaster-Classification/)
 
 - CNN-based image classifier using ResNet34/VGG16/EfficientNetB0
 - Transfer Learning + Grad-CAM + Huggingface deployment
@@ -27,6 +27,6 @@
 - Hyperledger Fabric + Hybrid Signcryption + Kubernetes
 - Secure architecture for IoLT-based healthcare
 
-### 4. [Human Activity Recognition (HAR)](#human-activity-recognition)
+### 4. [Human Activity Recognition (HAR)](./HAR-Activity-Recognition/)
 - Sliding window preprocessing on sensor data
 - Classification using Decision Tree, KNN, Naive Bayes

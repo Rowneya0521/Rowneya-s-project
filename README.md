@@ -1,4 +1,4 @@
-# my-projects
+
 # Rowneya's Project Portfolio
 
 Hi! I'm an enthusiastic student passionate about AI, cybersecurity, and system design. This page showcases my selected technical projects, covering deep learning, SIEM systems, blockchain, and IoT security.
